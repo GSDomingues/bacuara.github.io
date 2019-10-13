@@ -99,6 +99,9 @@ url-pretty: "https://projetobaquara.github.io/"  # eg. "deanattali.com/beautiful
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
 
+# Google AdSense
+google_adsense: ""
+
 # Google Tag Manager ID
 #gtm: ""
 

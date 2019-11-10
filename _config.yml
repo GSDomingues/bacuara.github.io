@@ -20,6 +20,8 @@ description: Projeto Bacuara
 
 # List of links in the navigation bar
 navbar-links:
+  Livros:
+    - Livro 01: "https://bacuara.github.io/livro-01/"
   Sobre: ""
 
 # Image to show in the navigation bar - image must be a square (width = height)

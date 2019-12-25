@@ -152,7 +152,7 @@ pre {
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   background-color: #fad02c;
-  position: relative; }
+  position: sticky; }
 
 .body-layout {
   background-color: #282120; }
@@ -167,6 +167,9 @@ pre {
   float: left; }
   .site-title, .site-title:visited {
     color: #282120; }
+
+.sidebar {
+  background-color: yellow; }
 
 .site-nav {
   float: right;

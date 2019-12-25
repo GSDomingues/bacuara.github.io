@@ -8,7 +8,7 @@
     background-color: #fad02c;
 
     // Positioning context for the mobile navigation icon
-    position: relative;
+    position: sticky;
 }
 
 .body-layout {
@@ -28,6 +28,14 @@
     &:visited {
         color: #282120;
     }
+}
+
+.sidebar {
+    background-color: yellow;
+}
+
+.sidebar-item {
+
 }
 
 .site-nav {

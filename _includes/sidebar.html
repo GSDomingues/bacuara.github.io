@@ -1,0 +1,15 @@
+
+<div class="col-sm-3">  
+    <div class="sidebar jumbotron" style="position: relative;">
+        <h4 class="my-0">Notícias</h4>
+        <hr></hr>
+    {% for post in site.posts %}
+            <div class="container sidebar-item" style="position: relative">
+                <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
+                <br>
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </div>
+            <br>
+    {% endfor %}
+    </div>
+</div>

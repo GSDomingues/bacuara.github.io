@@ -1,0 +1,29 @@
+---
+layout: default
+title: Notícias
+permalink: /notícias/
+---
+
+<div>
+
+  <h1 class="page-heading">Notícias</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <div class="container-fluid jumbotron post-container">
+        <li>
+          {% if post.image %}
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            <img class="post-image col" src="{{ post.image }}">
+            </a>
+          {% endif %}
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
+        </li>
+      </div>
+    {% endfor %}
+  </ul>
+
+</div>

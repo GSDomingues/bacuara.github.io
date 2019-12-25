@@ -6,9 +6,10 @@
   <body class="body-layout">
 
     {% include header.html %}
-    
+
     <div class="page-content bg-light">
-      <div class="wrapper">
+      <div class=" container-fluid row">
+        {% include sidebar.html %}
         {{ content }}
       </div>
     </div>

@@ -6,9 +6,35 @@
 </description>
     <link>http://bacuara.github.io/</link>
     <atom:link href="http://bacuara.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Dec 2019 19:46:26 -0300</pubDate>
-    <lastBuildDate>Wed, 25 Dec 2019 19:46:26 -0300</lastBuildDate>
+    <pubDate>Fri, 27 Dec 2019 20:49:43 -0300</pubDate>
+    <lastBuildDate>Fri, 27 Dec 2019 20:49:43 -0300</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Primeiro post</title>
+        <description>&lt;p&gt;Naruto pode ser um pouco duro às vezes, talvez você não saiba disso, mas o Naruto também cresceu sem pai. Na verdade ele nunca conheceu nenhum de seus pais, e nunca teve nenhum amigo em nossa aldeia. Mesmo assim eu nunca vi ele chorar, ficar zangado ou se dar por vencido, ele está sempre disposto a melhorar, ele quer ser respeitado, é o sonho dele e o Naruto daria a vida por isso sem hesitar. Meu palpite é que ele se cansou de chorar e decidiu fazer alguma coisa a respeito!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Dec 2019 00:00:00 -0300</pubDate>
+        <link>http://bacuara.github.io/2019/12/27/blog-first-blog-post.html</link>
+        <guid isPermaLink="true">http://bacuara.github.io/2019/12/27/blog-first-blog-post.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Linux</title>
+        <description>&lt;p&gt;What you guys are referring to as Linux, is in fact, GNU/Linux, or as I’ve recently taken to calling it, GNU plus Linux. Linux is not an operating system unto itself, but rather another free component of a fully functioning GNU system made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX.&lt;/p&gt;
+
+&lt;p&gt;Many computer users run a modified version of the GNU system every day, without realizing it. Through a peculiar turn of events, the version of GNU which is widely used today is often called “Linux”, and many of its users are not aware that it is basically the GNU system, developed by the GNU Project.&lt;/p&gt;
+
+&lt;p&gt;There really is a Linux, and these people are using it, but it is just a part of the system they use. Linux is the kernel: the program in the system that allocates the machine’s resources to the other programs that you run. The kernel is an essential part of an operating system, but useless by itself; it can only function in the context of a complete operating system. Linux is normally used in combination with the GNU operating system: the whole system is basically GNU with Linux added, or GNU/Linux. All the so-called “Linux” distributions are really distributions of GNU/Linux.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Dec 2019 00:00:00 -0300</pubDate>
+        <link>http://bacuara.github.io/2019/12/27/algumacoisa.html</link>
+        <guid isPermaLink="true">http://bacuara.github.io/2019/12/27/algumacoisa.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>No IFSC/USP: Tecnologias ópticas tratam câncer de pele e úlceras</title>
@@ -31,11 +57,9 @@
 &lt;p&gt;O mesmo acontece relativamente aos tratamentos de úlceras varicosas e câncer de pele. Elissandra Zanchin é enfermeira e especialista em laserterapia na UTF, confirmando que a maioria das pessoas que procuram a Unidade é muito carente, com baixa renda. “As pessoas que nos procuram vêm através de encaminhamento médico dos postos de saúde e o primeiro estágio é a avaliação que é feita pelos médicos que aqui prestam serviço e que estão plenamente integrados nas pesquisas que são feitas&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Dec 2019 16:06:07 -0300</pubDate>
-        <link>http://bacuara.github.io/noticia/2019/12/24/teste-de-post.html</link>
-        <guid isPermaLink="true">http://bacuara.github.io/noticia/2019/12/24/teste-de-post.html</guid>
+        <link>http://bacuara.github.io/2019/12/24/teste-de-post.html</link>
+        <guid isPermaLink="true">http://bacuara.github.io/2019/12/24/teste-de-post.html</guid>
         
-        
-        <category>noticia</category>
         
       </item>
     
@@ -44,11 +68,9 @@
         <description>&lt;p&gt;Outro teste de post eh mole&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Dec 2019 16:06:07 -0300</pubDate>
-        <link>http://bacuara.github.io/noticia/2019/12/24/mais-um-teste-de-post.html</link>
-        <guid isPermaLink="true">http://bacuara.github.io/noticia/2019/12/24/mais-um-teste-de-post.html</guid>
+        <link>http://bacuara.github.io/2019/12/24/mais-um-teste-de-post.html</link>
+        <guid isPermaLink="true">http://bacuara.github.io/2019/12/24/mais-um-teste-de-post.html</guid>
         
-        
-        <category>noticia</category>
         
       </item>
     
@@ -59,11 +81,9 @@
 &lt;p&gt;&lt;img src=&quot;http://cdmf.org.br/spimf2019/wp-content/uploads/2016/03/Vanderlei-Salvador-Bagnato-spimf-2019-cdmf-390x390.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Dec 2019 16:06:07 -0300</pubDate>
-        <link>http://bacuara.github.io/noticia/2019/12/24/agora-um-post-sem-imagem.html</link>
-        <guid isPermaLink="true">http://bacuara.github.io/noticia/2019/12/24/agora-um-post-sem-imagem.html</guid>
+        <link>http://bacuara.github.io/2019/12/24/agora-um-post-sem-imagem.html</link>
+        <guid isPermaLink="true">http://bacuara.github.io/2019/12/24/agora-um-post-sem-imagem.html</guid>
         
-        
-        <category>noticia</category>
         
       </item>
     

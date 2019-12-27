@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Notícias
-permalink: /notícias/
 ---
 
 <div>
@@ -10,6 +9,7 @@ permalink: /notícias/
 
   <ul class="post-list">
     {% for post in site.posts %}
+    {% if post.categorie == "noticia" %} 
       <div class="container-fluid jumbotron post-container">
         <li>
           {% if post.image %}
@@ -23,6 +23,7 @@ permalink: /notícias/
           <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
         </li>
       </div>
+    {% endif %}
     {% endfor %}
   </ul>
 

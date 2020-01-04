@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simulador avalia produtividade de poços de petróleo no computador"
-date:   2019-12-24 16:06:07 -0300
+date:   2019-10-31 16:06:07 -0300
 categorie: noticia
 author: Júlio Bernardes
 image:https://jornal.usp.br/wp-content/uploads/2019/10/20191031_plataforma-petroleo_Angra-dos-Reis.jpg

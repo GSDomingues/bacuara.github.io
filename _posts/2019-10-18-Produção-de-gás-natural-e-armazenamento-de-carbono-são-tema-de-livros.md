@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Produção de gás natural e armazenamento de carbono são tema de livros"
-date:   2019-12-24 16:06:07 -0300
+date:   2019-10-18 16:06:07 -0300
 author: Assessoria de Comunicação do RCGI
 categorie: noticia
 image: https://jornal.usp.br/wp-content/uploads/2019/10/20191016_livros_hirdan-medeiros.jpg

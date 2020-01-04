@@ -3,7 +3,6 @@ layout: post
 title:  "No IFSC/USP: Tecnologias ópticas tratam câncer de pele e úlceras"
 date:   2019-12-24 16:06:07 -0300
 author: Ruizão
-source: IFSC-USP
 category: noticia
 image: https://www2.ifsc.usp.br/portal-ifsc/wp-content/uploads/2018/07/ulcera-pe-diabetico450.jpg
 ---

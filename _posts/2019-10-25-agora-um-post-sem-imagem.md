@@ -2,7 +2,7 @@
 layout: post
 title:  "Agora um teste de post sem imagem"
 date:   2019-12-24 16:06:07 -0300
-categorie: noticia
+categorie: 
 ---
 Mentira a imagem ta aqui dentro 
 

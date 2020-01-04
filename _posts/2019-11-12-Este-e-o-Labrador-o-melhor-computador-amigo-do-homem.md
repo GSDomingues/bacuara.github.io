@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Agora um teste de post sem imagem"
+title:  "Este é o Labrador, o melhor computador amigo do homem"
 date:   2019-12-24 16:06:07 -0300
 categorie: noticia
 author: Júlio Bernardes

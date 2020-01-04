@@ -3,7 +3,8 @@ layout: post
 title:  "No IFSC/USP: Tecnologias ópticas tratam câncer de pele e úlceras"
 date:   2019-12-24 16:06:07 -0300
 author: Ruizão
-category: noticia
+source: IFSC-USP
+categorie: noticia
 image: https://www2.ifsc.usp.br/portal-ifsc/wp-content/uploads/2018/07/ulcera-pe-diabetico450.jpg
 ---
 Fazer ciência para que os resultados revertam integralmente para a sociedade é algo que está na gênese e no espírito do Instituto de Física de São Carlos (IFSC/USP), que partilha integralmente dos objetivos da própria Universidade de São Paulo, que é a primeira a incentivar que se percorra esse caminho. Tudo o que se faz nos laboratórios do IFSC/USP transpira ao desejo que a população seja beneficiada: dos sensores que anteveem ou detectam as mais variadas doenças, aos novos materiais que podem, inclusive, ser uma resposta para a criação de novas e inovadoras próteses e ortóteses, a descoberta de novos e mais eficazes fármacos, até à descoberta de novos protocolos que permitem inovadores tratamentos para as mais variadas doenças – HIV, inúmeros tipos de câncer, HPV, onicomicose, fibromialgia, artrites e artroses, úlceras varicosas e de pé de diabetes, psoríase, etc. -, já para não falar em novas e promissoras pesquisas relativas a diversas áreas de computação física, inclusive o *Big Data*, tudo é feito pensando na população e no seu bem estar.

@@ -4,7 +4,7 @@ title:  "Este é o Labrador, o melhor computador amigo do homem"
 date:   2019-11-12 16:06:07 -0300
 categorie: noticia
 author: Júlio Bernardes
-image:https://jornal.usp.br/wp-content/uploads/2019/11/20191111_04_Labrador.jpg
+image: https://jornal.usp.br/wp-content/uploads/2019/11/20191111_04_Labrador.jpg
 ---
 
 ![](https://jornal.usp.br/wp-content/uploads/2019/11/20191111_04_Labrador.jpg)

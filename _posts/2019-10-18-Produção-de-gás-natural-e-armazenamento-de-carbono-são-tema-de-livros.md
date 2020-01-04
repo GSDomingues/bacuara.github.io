@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Agora um teste de post sem imagem"
+title:  "Produção de gás natural e armazenamento de carbono são tema de livros"
 date:   2019-12-24 16:06:07 -0300
 author: Assessoria de Comunicação do RCGI
 categorie: noticia

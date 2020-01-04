@@ -4,7 +4,7 @@ title:  "Explosões de supernovas revelam origem de concha estelar gigante"
 date:   2019-12-11 16:06:07 -0300
 author: Luciana H Y Silveira/Apoio Institucional IAG
 categorie: noticia
-image: http://bf-astro.com/ic2177/ic2177.html
+image: https://jornal.usp.br/wp-content/uploads/2019/12/20191210_nebulosa-gaivota.jpg
 ---
 
 

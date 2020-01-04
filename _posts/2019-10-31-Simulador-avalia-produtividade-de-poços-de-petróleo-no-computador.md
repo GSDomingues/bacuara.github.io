@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Agora um teste de post sem imagem"
+title:  "Simulador avalia produtividade de poços de petróleo no computador"
 date:   2019-12-24 16:06:07 -0300
 categorie: noticia
 author: Júlio Bernardes

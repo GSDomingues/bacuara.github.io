@@ -21,6 +21,7 @@ O estudo que revelou a eficácia das vespas como predadores destas pragas foi re
 Os pesquisadores lembram que as vespas são encontradas em todo o mundo e podem ser usadas facilmente em pequena ou grande escala para controlar uma série de pragas comuns. “Existe uma necessidade global de métodos mais sustentáveis para controlar pragas agrícolas, reduzir dependência excessiva de pesticidas ou da importação de controladores de pragas. Vespas são muito comuns, mas pouco estudadas; com essa pesquisa fornecemos evidências importantes de seu valor econômico como controladoras de pragas”, diz o autor principal do estudo, Robin Southon, da UCL. 
 
 ![](https://jornal.usp.br/wp-content/uploads/2019/11/20191112_01_vespa_larva_pragas.jpg)
+
 Vespa ataca larva de praga agrícola – Foto: Divulgação / Seirian Sumner/UCL…
 
 
@@ -38,9 +39,11 @@ Os cientistas acreditam na eficiência de uma abordagem multifacetada de combate
 
  
 ![](https://jornal.usp.br/wp-content/uploads/2019/11/20191112_vespa_papel-social.jpg)
+
 Foto: Divulgação / Seirian Sumner/UCL
 
 ![](https://jornal.usp.br/wp-content/uploads/2019/11/20191112_vespa_papel-social2.jpg)
+
 Foto: Divulgação / Seirian Sumner/UCL
 
 
@@ -51,9 +54,11 @@ Já Seirian Sumner, do Centro de Biodiversidade e Meio Ambiente da UCL, lembra q
 Sumner espera que a pesquisa realce o valor das vespas. Ele já liderou estudo anterior sobre estes insetos, mostrando que muitas pessoas não gostam delas por não compreenderem seu papel no ecossistema. “Não se trata apenas de agricultura, trata-se de vespas em geral e de seu papel na regulação de outras populações de insetos”, afirma Sumner.
 
 ![](https://jornal.usp.br/wp-content/uploads/2019/11/20191112_vespa_soldado.jpg)
+
 A vespa Polistes satan – Foto: Divulgação / Seirian Sumner/UCL
 
 ![](https://jornal.usp.br/wp-content/uploads/2019/11/20191112_vespa_soldado2.jpg)
+
 Vespa caçadora ataca praga – Foto: Divulgação / Seirian Sumner/UCL
 
 

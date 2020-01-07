@@ -6,7 +6,7 @@ author: Agência Brasil/O Estado de S. Paulo
 categorie: noticia
 source:
 source link:
-image: https://jornal.usp.br/wp-content/uploads/2019/11/20191112_vespa_papel-social_PK.jpg 
+image: https://jornal.usp.br/wp-content/uploads/20170209_00_desmatamento-768x403.jpg
 ---
 
 Dados divulgados no dia 18  de novembro pelo Instituto Nacional de Pesquisas Espaciais (Inpe) mostram que, no período de agosto de 2018 a julho de 2019, o desmatamento da Amazônia Legal foi estimado em 9.762 quilômetros quadrados (km²). A área de vegetação nativa desmatada aumentou 29,54% em relação ao período anterior – de agosto de 2017 a julho de 2018.

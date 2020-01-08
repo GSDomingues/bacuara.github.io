@@ -3,8 +3,8 @@
     <div class="sidebar jumbotron" style="position: relative;">
         <h4 class="my-0">Notícias</h4>
         <hr></hr>
-    {% for post in site.posts %}
-    {% if post.categorie == "noticia" %} 
+    {% for post in site.posts limit:5%}
+    {% if post.categorie == "noticia"%} 
             <div class="container sidebar-item" style="position: relative">
                 <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
                 <br>
@@ -15,3 +15,4 @@
     {% endfor %}
     </div>
 </div>
+

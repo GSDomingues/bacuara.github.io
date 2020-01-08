@@ -2,7 +2,7 @@
 layout: post
 title:  "Grupo desenvolve biotinta para impressão 3D de tecido nervoso"
 date:   2020-01-07 16:06:07 -0300
-author: Letícia Santin / Assessoria de Comunicação da Esalq
+author: André Julião
 categorie: noticia
 source: Agência FAPESP
 source link: http://agencia.fapesp.br/grupo-desenvolve-biotinta-para-impressao-3d-de-tecido-nervoso/32255/

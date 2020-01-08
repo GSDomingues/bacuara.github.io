@@ -5,8 +5,8 @@ date:   2020-01-07 16:06:07 -0300
 author: Letícia Santin / Assessoria de Comunicação da Esalq
 categorie: noticia
 source: Agência FAPESP
-source link:
-image: https://jornal.usp.br/wp-content/uploads/2019/09/20190902_00_Moradiaamazonia.jpg
+source link: http://agencia.fapesp.br/grupo-desenvolve-biotinta-para-impressao-3d-de-tecido-nervoso/32255/
+image: http://agencia.fapesp.br/agencia-novo/imagens/noticia/32255.jpg
 ---
 
 <p><strong>André Julião  |  Agência FAPESP</strong> – Um grupo de pesquisadores da Universidade Federal de São Paulo (Unifesp) trabalha no desenvolvimento de uma biotinta capaz de produzir tecidos neurais em três dimensões (3D) que simulem o cérebro humano e permitam o estudo mais preciso de doenças neurodegenerativas, como Parkinson e Alzheimer.</p>

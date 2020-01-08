@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "FAPESP lança Rede de Dados Científicos do Estado de São Paulo"
-date:   2020-12-20 16:06:07 -0300
+date:   2019-12-20 16:06:07 -0300
 author: Maria Fernanda Ziegler
 categorie: noticia
 source: Agência FAPESP
 source link: http://agencia.fapesp.br/fapesp-lanca-rede-de-repositorios-de-dados-cientificos-do-estado-de-sao-paulo/32251/
-image: http://agencia.fapesp.br/agencia-novo/imagens/noticia/32255.jpg
+image: http://agencia.fapesp.br/agencia-novo/imagens/noticia/32251.jpg
 ---
 <p><strong>Maria Fernanda Ziegler | Agência FAPESP</strong> – Projetos de pesquisa, além de novos conhecimentos, geram uma infinidade de dados que, se bem organizados, podem subsidiar novos estudos, originando ainda mais conhecimento.</p>
 

@@ -4,6 +4,7 @@ title:  "Dá para viver bem de agricultura familiar na Amazônia"
 date:   2019-09-02 16:06:07 -0300
 author: Letícia Santin / Assessoria de Comunicação da Esalq
 categorie: noticia
+tags: Ciências Agrárias; Ciências Ambientais
 source: Jornal da USP
 source link: https://jornal.usp.br/ciencias/ciencias-agrarias/da-para-viver-bem-de-agricultura-familiar-na-amazonia/
 image: https://jornal.usp.br/wp-content/uploads/2019/09/20190902_00_Moradiaamazonia.jpg

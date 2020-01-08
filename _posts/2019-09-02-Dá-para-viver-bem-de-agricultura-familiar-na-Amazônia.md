@@ -10,6 +10,7 @@ source link: https://jornal.usp.br/ciencias/ciencias-agrarias/da-para-viver-bem-
 image: https://jornal.usp.br/wp-content/uploads/2019/09/20190902_00_Moradiaamazonia.jpg
 ---
 ![](https://jornal.usp.br/wp-content/uploads/2019/09/20190902_00_Moradiaamazonia.jpg)
+
 Moradia de agricultores familiares rodeada por sistema agroflorestal com cacau conectando-se com a floresta conservada na Reserva Legal – Foto: cedida pelo pesquisador
 
 Qual é o padrão de vida que pequenos agricultores familiares, produtores de cacau e/ou gado, podem alcançar em termos de bem-estar econômico? Essa é a pergunta que Daniel Braga procurou responder em sua tese, realizada no Programa de Pós-Graduação em Recursos Florestais da Escola Superior de Agricultura Luiz de Queiroz (Esalq) da USP.
